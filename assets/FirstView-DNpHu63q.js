@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./index-FDhSFr6t.js";const o={},c={class:"text-nav-text text-2xl font-bold"};function a(n,r){return s(),e("div",c," Hola! Esta es la Vista 1 ")}const l=t(o,[["render",a]]);export{l as default};
